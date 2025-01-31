@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "Mensageria.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "..\\MensageriaWorker\\MensageriaWorker.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "..\\MensageriaDominio\\MensageriaDominio.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]
